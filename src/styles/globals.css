@@ -17,13 +17,10 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: #e7e7e9;
+  background-image: radial-gradient(rgb(219, 219, 219) 2px, transparent 0);
+  background-size: 30px 30px;
+  background-position: -19px -19px;
 }
 
 @layer utilities {
