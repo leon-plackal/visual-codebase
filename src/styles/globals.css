@@ -28,3 +28,29 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.repo-tree {
+  display: flex;
+  flex-direction: column;
+}
+
+.folder.horizontal {
+  display: flex;
+}
+
+.folder.vertical {
+  display: block;
+  width: fit-content;
+}
+
+.folder > div {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.contents {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+

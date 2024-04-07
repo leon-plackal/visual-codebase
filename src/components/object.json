@@ -1,0 +1,87 @@
+{
+    ".gitignore": {},
+    "README.md": {},
+    "index.html": {},
+    "package-lock.json": {},
+    "package.json": {},
+    "postcss.config.js": {},
+    "public": {
+      "Union.svg": {},
+      "Union5.svg": {},
+      "clay-banks-wueUmXl5TU0-unsplash.jpg": {},
+      "favicon.ico": {},
+      "landscapesampletall.jpg": {},
+      "landscapesamplewide.jpg": {},
+      "logo192.png": {},
+      "logo512.png": {},
+      "manifest.json": {},
+      "profile.jpg": {},
+      "robots.txt": {}
+    },
+    "src": {
+      "App.css": {},
+      "App.test.js": {},
+      "App.tsx": {},
+      "components": {
+        "Avatar.tsx": {},
+        "BaseLayout.tsx": {},
+        "Header.tsx": {},
+        "InterestPicker.tsx": {},
+        "LoaderSquare.tsx": {},
+        "LogoutButton.tsx": {},
+        "ProtectedRoute.tsx": {},
+        "SavePostButton.tsx": {},
+        "TagChip.tsx": {},
+        "ThemeChangerBtn.tsx": {},
+        "UnsavePostButton.tsx": {},
+        "cards": {
+          "Card.tsx": {},
+          "FeedCard.tsx": {},
+          "NavigationCard.tsx": {},
+          "PostCard.tsx": {},
+          "Tooltip.tsx": {}
+        },
+        "redditVideo.tsx": {},
+        "sourceIconPicker.tsx": {},
+        "splashscreen.tsx": {}
+      },
+      "index.css": {},
+      "index.tsx": {},
+      "logo.svg": {},
+      "pages": {
+        "aboutus.tsx": {},
+        "home.tsx": {},
+        "login.tsx": {},
+        "loginsuccess.tsx": {},
+        "notifications.tsx": {},
+        "privacy.tsx": {},
+        "profile.tsx": {},
+        "saved.tsx": {}
+      },
+      "reportWebVitals.tsx": {},
+      "services": {
+        "PostManager.ts": {},
+        "YoutubeAPI.ts": {},
+        "newsAPI.ts": {},
+        "openAPI.ts": {},
+        "redditAPI.ts": {}
+      },
+      "setupTests.js": {},
+      "supabase": {
+        "Auth.tsx": {},
+        "account.js": {},
+        "supabaseclient.ts": {}
+      },
+      "utilities": {
+        "DateCoverter.ts": {},
+        "sampleData.txt": {},
+        "sampleInterests.ts": {},
+        "useOnScreen.ts": {},
+        "uuid.ts": {}
+      },
+      "vite-env.d.ts": {}
+    },
+    "tailwind.config.js": {},
+    "tsconfig.json": {},
+    "vite.config.ts": {}
+  }
